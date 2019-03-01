@@ -1,0 +1,10 @@
+#二维码前缀
+qrCodePrefix: http://qr.topscan.com/api.php?w=200&h=200&text=
+#微信支付相关key
+wxAppid: xxx
+wxPayMchid: xxx
+wxPayKey: xxx
+#统一下单接口
+wxPayOrder: https://api.mch.weixin.qq.com/pay/unifiedorder
+#微信回调接口
+notifyUrl: http://rrnpck.natappfree.cc/recharge/wxPayCallback

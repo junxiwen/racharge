@@ -1,0 +1,10 @@
+
+# server相关的
+server:
+  port: 6666 # 端口
+
+
+# 自定义配置
+custom:
+  configs:
+    config: classpath:static/config.yml
